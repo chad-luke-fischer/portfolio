@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"Chad Luke Fischer",
+    "occupation":"Software Developer, Researcher, and UX Designer",
+    "description":"I am currently a junior at the University of Southern California, where I am pursuing a B.S. in Computational Linguistics and a minor in User Experience. I have always had an aptitude for creativity, and I take pride in projects that utilize this skill. My combined strengths of writing, art, and programming give me a unique perspective when working to solve difficult problems.",
+    "image":"profilepic.jpg",
+    "bio":"I am proficient in a wide degree of languages including: [C++, Java, Javascript, Python, Pytorch, React, Matlab]. In the future, I hope to work with artificial intelligence, specifically natural language processing and speech recognition/synthesis. Currently, I am looking for a technological internship for summer 2020. ",
+    "contactmessage":"Please reach out for questions or inquiries:",
+    "email": "5chadfischer@gmail.com",
+    "phone": "+1(908)797-6544",
+    "address":{
+      "street":"2814 Ellendale Pl",
+      "city":"Los Angeles",
+      "state":"California",
+      "zip": "90009"
+    },
+    "website": "http://www.chadfischer.com",
+    "resumedownload":"https://drive.google.com/file/d/1uFClQmfYwOr00aZwbYQG2gULTD79b79s/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/chad.fischer.923",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/chad-fischer-309b57175/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/cfisch123/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/chad-luke-fischer",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technological Skills:",
+    "education":[
+      {
+        "school":"University of Southern California",
+        "degree":"Computational Linguistics",
+        "graduated":"May 2021",
+        "description":"Pursuing a Bachelor of Science in Computational Linguistics with a minor in User Experience"
+      },
+      {
+        "school":"Delbarton High School",
+        "degree":"Alumnis",
+        "graduated":"May 2017",
+        "description":"AP Courses: Computer Science A, Studio Art, Calculus AB, European History, American History, English Language and Composition, English Literature"
+      }
+    ],
+    "work":[
+      {
+        "company":"USC Institute for Creative Technology",
+        "title":"Undergraduate Associate Researcher (Natural Language Processing)",
+        "years":"October 2019 - Present",
+        "description":"Part of a research effort aimed to build AI that generates narrative summary based on events that occur in US Army training simulations. Utilized computer vision and NLP to build textual summary given a sequence of events."
+      },
+      {
+        "company":"Chrome River Technologies",
+        "title":"Data Specialist",
+        "years":"April 2019 - July 2019",
+        "description":"Data entry and analytics for optical character recognition (OCR) software that extracts relevant data fields from photographic receipts. Analyzed and recorded key-words across multiple languages (Japanese, German, French, Italian) in order to optimize data accuracy."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C++",
+        "level":"85%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"Pytorch",
+        "level":"85%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"Matlab",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Thera-aid",
+        "category":"Prototype for theraputic wellness IOS application",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.figma.com/proto/GixXyeAyhBLrd6466SdHjQ/Final-Mock-Up?node-id=34%3A121&scaling=scale-down"
+      },
+      {
+        "title":"Avatar",
+        "category":"Personal avatar done with Figma",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://www.figma.com/file/ht7uNqxs4uXBBxXiip5mhS/Avatar?node-id=0%3A1"
+      },
+      {
+        "title":"Studio Art",
+        "category":"Explore more of my artwork",
+        "image":"original-thai-food.jpg",
+        "url":"https://drive.google.com/drive/folders/1fzurqnkj65c69o8PhrdKQbJu5ApPszvF?usp=sharing"
+      },
+      {
+        "title":"USC ICT Narrative",
+        "category":"Link to the Narrative Department at USC Institute for Creative Technology",
+        "image":"resume-website.jpg",
+        "url":"https://ict.usc.edu/groups/narrative/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"In deep learning, there’s no data like more data. The more examples of a given phenomenon a network is exposed to, the more accurately it can pick out patterns and identify things in the real world",
+        "user":"Kai-Fu Lee"
+      },
+      {
+        "text":"Machine intelligence is the last invention that humanity will ever need to make",
+        "user":"Nick Bostrom"
+      }
+    ]
+  }
+}
